@@ -48,35 +48,7 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 ---
 
 ## 📂 Folder Structure  
-flashcard-app/
-├── backend/
-│   ├── models/
-│   │   ├── Flashcard.js
-│   │   └── User.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   └── flashcardRoutes.js
-│   ├── server.js
-│   ├── .env
-│   └── package.json
-├── frontend/
-│   ├── public/
-│   │   ├── bg_1.jpg
-│   │   └── index.html
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Flashcard.js
-│   │   │   ├── FlashcardList.js
-│   │   │   ├── Login.js
-│   │   │   ├── Register.js
-│   │   │   └── BlurText.js
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── App.css
-│   ├── package.json
-│   └── README.md
-└── README.md
-
+![App Screenshot] {./Screenshot.png}
 ---
 
 ## 🔗 Routes  

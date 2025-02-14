@@ -48,7 +48,7 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 ---
 
 ## 📂 Folder Structure  
-![App Screenshot] (./Screenshot.png)
+![Alt Text](./Screenshot.png)
 ---
 
 ## 🔗 Routes  

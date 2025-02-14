@@ -207,6 +207,7 @@ Start the development server:
 bash
 Copy
 npm start
+
 🌐 Deployment
 Backend: Deployed on Render or Heroku.
 

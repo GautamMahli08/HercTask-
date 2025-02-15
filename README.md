@@ -149,36 +149,8 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 
    Install dependencies:
 
-bash
-Copy
-npm install
-Create a .env file and add the following:
+![Alt Text](https://github.com/GautamMahli08/HercTask-/blob/main/depend.png)
 
-Copy
-MONGO_URI=mongodb://localhost:27017/flashcard-app
-JWT_SECRET=your_jwt_secret_key
-PORT=5000
-Start the server:
-
-bash
-Copy
-node server.js
-Frontend
-Navigate to the frontend folder:
-
-bash
-Copy
-cd frontend
-Install dependencies:
-
-bash
-Copy
-npm install
-Start the development server:
-
-bash
-Copy
-npm start
 
 🌐 Deployment
 Backend: Deployed on Render or Heroku.

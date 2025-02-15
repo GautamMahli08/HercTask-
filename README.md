@@ -152,7 +152,6 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 ![Alt Text](https://github.com/GautamMahli08/HercTask-/blob/main/depend.png)
 
 
-🌐 Deployment
-Backend: Deployed on Render or Heroku.
-
-Frontend: Deployed on Vercel or Netlify.
+### 🌐 Deployment
+- **Backend: Deployed on Render or Render.
+- **Frontend: Deployed on Vercel or Render.

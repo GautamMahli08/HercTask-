@@ -156,12 +156,3 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 Backend: Deployed on Render or Heroku.
 
 Frontend: Deployed on Vercel or Netlify.
-
-🔮 Future Improvements
-Add a dark mode toggle.
-
-Implement progress tracking (e.g., "You have 5 flashcards due today").
-
-Add animations for smoother transitions.
-
-Allow users to export/import flashcards.

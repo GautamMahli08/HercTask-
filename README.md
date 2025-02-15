@@ -24,6 +24,12 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 - **Animations & Particles Background**: A visually engaging experience that keeps you motivated.  
 
 ---
+## ✨ Notes after you Run login INFO for testing with some Queries :
+- **Username ='user1' and Password ='http'
+- **Username ='user2' and Password ='iron'
+- **Username ='user3' and Password ='pass'
+- **Username ='user4' and Password ='vbnm'
+- **Username ='user5' and Password ='pubg'
 
 ## � Roadmap  
 
@@ -155,3 +161,6 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 ### 🌐 Deployment
 - **Backend: Deployed on Render or Render.
 - **Frontend: Deployed on Vercel or Render.
+
+
+THANK YOU -------"GAUTAM MAHLI"------------

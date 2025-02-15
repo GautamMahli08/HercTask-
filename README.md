@@ -163,4 +163,15 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 - **Database: !Deployed
 
 
+### 🌐 Interfaces
+
+### 🌐 Login
+![Alt Text](https://github.com/GautamMahli08/HercTask-/blob/main/login.png)
+
+### 🌐 Flashcard-page
+![Alt Text](https://github.com/GautamMahli08/HercTask-/blob/main/sec.png)
+
+
+https://github.com/GautamMahli08/HercTask-/blob/main/login.png
+
 THANK YOU -------"GAUTAM MAHLI"------------

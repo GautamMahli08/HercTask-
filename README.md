@@ -45,10 +45,7 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 ### Testing  
 - Test API endpoints using **Postman**.  
 - Debug and refine both frontend and backend for a seamless experience.  
-
-### Deployment  
-- Deploy the backend on **Render** or **Heroku**.  
-- Deploy the frontend on **Vercel** or **Netlify**.  
+  
 
 ---
 

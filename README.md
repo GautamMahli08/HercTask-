@@ -1,5 +1,4 @@
 # Flashcard Learning App  
-**Revolutionize Your Learning Experience with Spaced Repetition**  
 
 The Flashcard Learning App is a sleek, modern web application designed to help users master their study material efficiently. Built with a **React frontend** and a **Node.js/Express backend**, and powered by **MongoDB**, this app leverages the **Leitner System** for spaced repetition, ensuring optimal retention and recall.  
 
@@ -159,8 +158,9 @@ The Flashcard Learning App is a sleek, modern web application designed to help u
 
 
 ### 🌐 Deployment
-- **Backend: Deployed on Render or Render.
-- **Frontend: Deployed on Vercel or Render.
+- **Backend: Deployed on Render. (DONE)
+- **Frontend: !Deployed (NOT-DONE)
+- **Database: !Deployed
 
 
 THANK YOU -------"GAUTAM MAHLI"------------
